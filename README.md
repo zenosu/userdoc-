@@ -3,12 +3,12 @@
 ##Prepare the Materials
 
 To make a peanut butter and jelly sandwich, you will need:
-	⁃	A clean and flat surface: for instance, a clean cutting board or kitchen countertop
-	⁃	A clean butter knife
-	⁃	A clean kitchen towel
-	⁃	A jar of peanut butter
-	⁃	A jar of jelly
-	⁃	Two slices of bread  
+- A clean and flat surface: for instance, a clean cutting board or kitchen countertop
+- A clean butter knife
+- A clean kitchen towel
+- A jar of peanut butter
+- A jar of jelly
+- Two slices of bread  
 
 ##Make the Peanut Butter and Jelly Sandwich
 	
